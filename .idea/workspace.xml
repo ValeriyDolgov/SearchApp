@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc310630-5f8c-4d31-8edf-b54eb52d0f82" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/input/Root.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/input/TxtToString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/query/Annotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/query/Query.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/query/Root.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.txt" afterDir="false" />
-    </list>
+    <list default="true" id="bc310630-5f8c-4d31-8edf-b54eb52d0f82" name="Changes" comment="build 1 - Created reading of .txt file" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,7 +57,16 @@
       <workItem from="1664251489017" duration="571000" />
       <workItem from="1664255373866" duration="2378000" />
       <workItem from="1664257778390" duration="1725000" />
+      <workItem from="1664271839048" duration="580000" />
     </task>
+    <task id="LOCAL-00001" summary="build 1 - Created reading of .txt file">
+      <created>1664271971876</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1664271971876</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -88,5 +82,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="build 1 - Created reading of .txt fil" />
+    <MESSAGE value="build 1 - Created reading of .txt file" />
+    <option name="LAST_COMMIT_MESSAGE" value="build 1 - Created reading of .txt file" />
   </component>
 </project>
