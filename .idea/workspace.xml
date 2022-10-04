@@ -4,7 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc310630-5f8c-4d31-8edf-b54eb52d0f82" name="Changes" comment="build 1 - Created reading of .txt file" />
+    <list default="true" id="bc310630-5f8c-4d31-8edf-b54eb52d0f82" name="Changes" comment="build 1 - Created reading of .txt file">
+      <change afterPath="$PROJECT_DIR$/src/main/java/notelastic/Get.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/notelastic/JsonParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/notelastic/Post.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/notelastic/StringToQuery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test2Рус.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/input/Root.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/input/TxtToString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/notelastic/TxtToString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,18 +42,28 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "File.Encoding"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="notelastic" />
+    </key>
+  </component>
   <component name="RunManager">
-    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="SerachApplication" />
+      <option name="VM_PARAMETERS" value="-Dorg.apache.commons.logging.Log=org.apache.commons.logging.impl.SimpleLog -Dorg.apache.commons.logging.simplelog.showdatetime=true -Dorg.apache.commons.logging.simplelog.log.org.apache.http=DEBUG -Dorg.apache.commons.logging.simplelog.log.org.apache.http.wire=ERROR" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -57,7 +81,15 @@
       <workItem from="1664251489017" duration="571000" />
       <workItem from="1664255373866" duration="2378000" />
       <workItem from="1664257778390" duration="1725000" />
-      <workItem from="1664271839048" duration="580000" />
+      <workItem from="1664271839048" duration="5854000" />
+      <workItem from="1664361032335" duration="6795000" />
+      <workItem from="1664443802332" duration="5379000" />
+      <workItem from="1664512702700" duration="4905000" />
+      <workItem from="1664517740480" duration="5448000" />
+      <workItem from="1664533088628" duration="2787000" />
+      <workItem from="1664539297281" duration="596000" />
+      <workItem from="1664539944521" duration="295000" />
+      <workItem from="1664788413857" duration="6709000" />
     </task>
     <task id="LOCAL-00001" summary="build 1 - Created reading of .txt file">
       <created>1664271971876</created>
@@ -66,7 +98,21 @@
       <option name="project" value="LOCAL" />
       <updated>1664271971876</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="build 1 - Created reading of .txt file">
+      <created>1664272537248</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1664272537248</updated>
+    </task>
+    <task id="LOCAL-00003" summary="build 1 - Created reading of .txt file">
+      <created>1664273762416</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1664273762416</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,5 +133,20 @@
     <MESSAGE value="build 1 - Created reading of .txt fil" />
     <MESSAGE value="build 1 - Created reading of .txt file" />
     <option name="LAST_COMMIT_MESSAGE" value="build 1 - Created reading of .txt file" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/notelastic/JsonParser.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
